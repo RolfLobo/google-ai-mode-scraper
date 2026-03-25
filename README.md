@@ -153,7 +153,7 @@ Scraping Google AI Mode unlocks powerful applications across SEO and GEO analysi
 
 * **No upkeep needed:** all infrastructure handled for you (proxies, IP rotation, anti-bot measures). No engineering time wasted on fixes or site changes.  
 * **Reliable performance:** consistent, high success rates powered by enterprise-level infrastructure.  
-* **Smart capabilities:** headless browser for real-user simulation, CAPTCHA bypass, and geo-targeting for localized results.
+* **Smart capabilities:** Custom Browser Instruction with a headless browser for real-user simulation, CAPTCHA bypass, and geo-targeting for localized results.
 
 ## FAQs
 
