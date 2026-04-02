@@ -172,4 +172,4 @@ For detailed information on API features, integrations, and more examples, see t
 
 ## Contact us
 
-For questions or support, contact us at hello@oxylabs.io or via [live chat](https://oxylabs.drift.click/oxybot).
+If you have questions or need support, reach out to us at support@oxylabs.io, or through live chat, accessible via [Oxylabs Dashboard](https://dashboard.oxylabs.io/en/), or join our [Discord community](https://discord.gg/Pds3gBmKMH). For enterprise-related inquiries, contact your dedicated account manager.
