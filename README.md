@@ -4,7 +4,7 @@
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
-[Google AI Mode scraper](https://oxylabs.io/products/scraper-api/serp/google-ai-mode) lets you send prompts and reliably extract AI responses at scale without blocks. Built on the [Web Scraper API](https://oxylabs.io/products/scraper-api/web), it delivers parsed data in JSON format while handling proxies, headless browsers, and anti-bot systems for you. You can use scraped Google AI Mode data to power SEO and GEO projects, build training datasets, or support other data tasks.
+[Google AI Mode scraper](https://oxylabs.io/products/scraper-api/serp/google-ai-mode) lets you send prompts and reliably extract AI responses at scale without blocks. Built on the [Web Scraper API](https://oxylabs.io/products/scraper-api/web), it delivers parsed data in JSON format while handling proxies, headless browsers, and automated request systems for you. You can use scraped Google AI Mode data to power SEO and GEO projects, build training datasets, or support other data tasks.
 
 ## How it works
 
@@ -153,7 +153,7 @@ Scraping Google AI Mode unlocks powerful applications across SEO and GEO analysi
 
 * **No upkeep needed:** all infrastructure handled for you (proxies, IP rotation, anti-bot measures). No engineering time wasted on fixes or site changes.  
 * **Reliable performance:** consistent, high success rates powered by enterprise-level infrastructure.  
-* **Smart capabilities:** Custom Browser Instruction with a headless browser for real-user simulation, CAPTCHA bypass, and geo-targeting for localized results.
+* **Smart capabilities:** Custom Browser Instruction with a headless browser for real-user simulation, CAPTCHA handling, and geo-targeting for localized results.
 
 ## FAQs
 
