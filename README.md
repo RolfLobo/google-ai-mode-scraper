@@ -155,6 +155,8 @@ Scraping Google AI Mode unlocks powerful applications across SEO and GEO analysi
 * **Reliable performance:** consistent, high success rates powered by enterprise-level infrastructure.  
 * **Smart capabilities:** Custom Browser Instruction with a headless browser for real-user simulation, CAPTCHA handling, and geo-targeting for localized results.
 
+[![Oxylabs promo code](https://github.com/oxylabs/agent-skills/blob/main/Github%20repositories%20banner%20v1%402x.png)](https://x.com/Oxylabs_io)
+
 ## FAQs
 
 ### Is it allowed to scrape AI-generated content from Google?
