@@ -140,6 +140,7 @@ Depending on the search query, both the number of items and the fields included 
 | `job_id` | ID of the job associated with the scraping job. | string |
 | `status_code` | Status code of the scraping job. You can see the scraper status codes described [here](https://developers.oxylabs.io/scraping-solutions/web-scraper-api/response-codes). | integer |
 
+[![Oxylabs promo code](https://github.com/oxylabs/google-ai-mode-scraper/blob/main/Github%20repositories%20banner%20v1%402x.png)](https://oxylabs.io/web-api-early-access?&utm_content=web_api_waitinglist&groupid=877)
 
 ## Use cases
 
